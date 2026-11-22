@@ -1,0 +1,5 @@
+id,source,image_name,region,phenomenon,affected_label_attribute
+1,IR_sim,S01_ir.png,rear_middle,Anh IR-sim chi doi kenh mau do khong tai hien duoc phan xa den LED,frame_meta.light
+2,IR_sim,S04_ir.png,rear_left,Bong toi tren anh IR-sim lam mat chi tiet nep gap va thuong hieu tren tui xach,object.type
+3,real_IR,D01.png,face,Den NIR phan xac len mat kinh lam mo vung mat tai xe,face.eye_left
+4,real_IR,D05.png,hand,Anh NIR phan biet ro ranh gioi giua ban tay va dien thoai trong dieu kien thieu sang,phone.state
